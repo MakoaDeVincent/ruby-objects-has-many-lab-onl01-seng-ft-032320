@@ -13,10 +13,10 @@ class Post
   end
 
   def author_name
-    if @author.name == nil
+    if @author.title == nil
       return nil
     else
-      @author.name
+      @author.title
     end
   end
 
