@@ -13,7 +13,7 @@ class Post
   end
 
   def title
-    self.title
+    self
   end
 
   def author
