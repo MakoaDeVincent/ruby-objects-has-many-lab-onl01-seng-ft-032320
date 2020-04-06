@@ -19,5 +19,5 @@ class Post
   end
 
   
-  
+
 end
