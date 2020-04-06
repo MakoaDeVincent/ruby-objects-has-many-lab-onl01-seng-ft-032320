@@ -12,13 +12,6 @@ class Post
     @@all
   end
 
-  def title
-    post.title = @title
-  end
-
-  def author
-  end
-
   def author_name
   end
 
