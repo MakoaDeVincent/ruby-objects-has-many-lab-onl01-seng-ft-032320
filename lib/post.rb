@@ -9,6 +9,7 @@ class Post
   end
 
   def self.all
+    @@all
   end
 
   def title
